@@ -1,0 +1,32 @@
+{
+    "date": "18 JULI 2023, 20:52",
+    "valueTd1_a": [
+        "TERBIT",
+        "TRANSIT",
+        "TERBENAM",
+        "DURASI SIANG"
+    ],
+    "valueTd2_a": [
+        "5:56",
+        "11:55",
+        "17:55",
+        "11:58"
+    ],
+    "valueTd3_a": [
+        "PASANG SURUT",
+        "KETINGGIAN",
+        "KOEFISIEN",
+        "PASANG NAIK",
+        "KETINGGIAN",
+        "KOEFISIEN"
+    ],
+    "valueTd4_a": [
+        "9:17",
+        "0.2 m",
+        "72",
+        "21:40",
+        "2.6 m",
+        "72"
+    ],
+    "image": "18-juli-2023-2052"
+}

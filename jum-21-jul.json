@@ -1,0 +1,57 @@
+{
+    "value": {
+        "tgl": [
+            "Jum, 21 Jul"
+        ],
+        "kota": [
+            "01:00 WIB",
+            "04:00 WIB",
+            "07:00 WIB",
+            "10:00 WIB",
+            "13:00 WIB",
+            "16:00 WIB",
+            "19:00 WIB",
+            "22:00 WIB"
+        ],
+        "cuaca": [
+            "Berawan Tebal",
+            "Berawan",
+            "Berawan Tebal",
+            "Berawan",
+            "Berawan",
+            "Berawan",
+            "Berawan",
+            "Berawan"
+        ],
+        "suhu": [
+            "24\u00b0C",
+            "24\u00b0C",
+            "25\u00b0C",
+            "28\u00b0C",
+            "31\u00b0C",
+            "28\u00b0C",
+            "26\u00b0C",
+            "25\u00b0C"
+        ],
+        "persentasehujan": [
+            "95 %",
+            "100 %",
+            "95 %",
+            "80 %",
+            "65 %",
+            "80 %",
+            "90 %",
+            "90 %"
+        ],
+        "arah": [
+            "10 km/jam\nTenggara",
+            "10 km/jam\nTenggara",
+            "10 km/jam\nTenggara",
+            "30 km/jam\nTenggara",
+            "30 km/jam\nTenggara",
+            "20 km/jam\nTenggara",
+            "10 km/jam\nTenggara",
+            "10 km/jam\nTenggara"
+        ]
+    }
+}
